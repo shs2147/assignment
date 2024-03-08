@@ -1,0 +1,1 @@
+package com.assignment.assignment.repository;import com.assignment.assignment.entity.UserData;import org.springframework.data.jpa.repository.JpaRepository;public interface UserDataRepo extends JpaRepository<UserData,Long> {    UserData findByEmail(String email);}
