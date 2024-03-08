@@ -1,0 +1,1 @@
+To run this application you need to follow following steps:1.First Create a schema using query given below    CREATE DATABASE user_data;2. Run the AssignmentApplication class to create tables.3.See the controller class to perform operation.
